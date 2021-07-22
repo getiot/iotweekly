@@ -20,10 +20,17 @@
 
 - [It's FOSS](https://itsfoss.com)
 - [bootlin](https://bootlin.com)
+- [opensource.com](https://opensource.com)
 
 
 
 ## IoT
 
 - [IoTnews](https://iottechnews.com)
+
+
+
+## COMMUNITY
+
+- [Dev Community](https://dev.to)
 
