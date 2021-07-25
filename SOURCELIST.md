@@ -24,6 +24,12 @@
 
 
 
+## INFO
+
+- [Linux for Devices](https://www.linuxfordevices.com)
+
+
+
 ## IoT
 
 - [IoTnews](https://iottechnews.com)
